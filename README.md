@@ -8,3 +8,5 @@ an interface.
 
 This way, servlets or other components can support plugins that do something at various points 
 during execution.  See the DemoServlet for an example.
+
+See the explanation here: https://blog.mikeski.net/java/ee-custom-annotation-lookup/
